@@ -9,7 +9,7 @@ const Works = () => {
     <>
     <hr/>
 
-    <h1 id="gotogallery" className='text-center lg:mt-32 font-myfont mt-24 font-bold text-3xl lg:text-4xl text-gray-800 px-2'>How it works</h1>
+    <h1 id="gotogallery" className='text-center lg:mt-32 font-myfont mt-32 font-bold text-3xl lg:text-4xl text-gray-800 px-2'>How it works</h1>
 
     <p className='text-center text-gray-700 mt-1 px-2 mb-1 font-myfont text-sm lg:text-xl'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 

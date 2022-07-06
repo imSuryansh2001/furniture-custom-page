@@ -6,7 +6,7 @@ import threeThree from "../images/threeThree.jpg"
 const Inspiration = () => {
   return (
     <>
-      <h1 id="gotoabout" className='text-center font-myfont mt-12 md:mt-20 lg:mt-32 font-bold text-3xl lg:text-4xl text-gray-800 px-2'>Inspiration collection</h1>
+      <h1 id="gotoabout" className='text-center font-myfont mt-20 md:mt-20 lg:mt-32 font-bold text-3xl lg:text-4xl text-gray-800 px-2'>Inspiration collection</h1>
       <p className='text-center text-gray-700 mt-1 px-2 font-myfont text-sm lg:text-xl'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus, maxime.</p>
 
 
